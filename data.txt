@@ -76,3 +76,4 @@ cbox|Afx:64F30000:8:00000000:01900010:00000000|
 百度商桥|bdim_skinedwnd|180*115
 *|TipsFlashWindow|300*225
 WPS 热点|#32770|1920*1080
+腾讯新闻|TXGuiFoundation|
