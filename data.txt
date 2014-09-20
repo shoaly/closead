@@ -78,3 +78,4 @@ cbox|Afx:64F30000:8:00000000:01900010:00000000|
 WPS 热点|#32770|1920*1080
 腾讯新闻|TXGuiFoundation|
 腾讯信鸽推送|TXGuiFoundation|
+腾讯实时公交|TXGuiFoundation|
