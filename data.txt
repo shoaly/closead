@@ -81,3 +81,4 @@ WPS 热点|#32770|1920*1080
 腾讯实时公交|TXGuiFoundation|
 腾讯视频|TXGuiFoundation|
 腾讯*|TXGuiFoundation|
+京东|TXGuiFoundation|
