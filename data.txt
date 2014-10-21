@@ -84,3 +84,4 @@ WPS 热点|#32770|1920*1080
 京东|TXGuiFoundation|
 企业QQ|TXGuiFoundation|
 QQ安全中心|TXGuiFoundation|
+QQ浏览器|TXGuiFoundation|
