@@ -80,9 +80,10 @@ WPS 热点|#32770|1920*1080
 腾讯信鸽推送|TXGuiFoundation|
 腾讯实时公交|TXGuiFoundation|
 腾讯视频|TXGuiFoundation|
-腾讯*|TXGuiFoundation|
+*|TXGuiFoundation|
 京东|TXGuiFoundation|
 企业QQ|TXGuiFoundation|
 QQ安全中心|TXGuiFoundation|
 QQ浏览器|TXGuiFoundation|
 腾讯大申网新闻|TXGuiFoundation|
+腾讯云|TXGuiFoundation|
