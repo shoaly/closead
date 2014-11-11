@@ -87,3 +87,4 @@ QQ安全中心|TXGuiFoundation|
 QQ浏览器|TXGuiFoundation|
 腾讯大申网新闻|TXGuiFoundation|
 腾讯云|TXGuiFoundation|
+快盘|UIFoundation|
