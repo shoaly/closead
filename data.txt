@@ -88,3 +88,7 @@ QQ浏览器|TXGuiFoundation|
 腾讯大申网新闻|TXGuiFoundation|
 腾讯云|TXGuiFoundation|
 快盘|UIFoundation|
+应用中心|TXGuiFoundation|
+拍拍网|TXGuiFoundation|
+好莱坞影院|TXGuiFoundation|
+防欺诈提示|TXGuiFoundation|
