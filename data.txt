@@ -92,3 +92,5 @@ QQ浏览器|TXGuiFoundation|
 拍拍网|TXGuiFoundation|
 好莱坞影院|TXGuiFoundation|
 防欺诈提示|TXGuiFoundation|
+腾讯路宝|TXGuiFoundation|
+腾讯游戏|TXGuiFoundation|
