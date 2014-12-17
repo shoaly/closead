@@ -94,3 +94,4 @@ QQ浏览器|TXGuiFoundation|
 防欺诈提示|TXGuiFoundation|
 腾讯路宝|TXGuiFoundation|
 腾讯游戏|TXGuiFoundation|
+腾讯应用宝|TXGuiFoundation|
