@@ -95,3 +95,5 @@ QQ浏览器|TXGuiFoundation|
 腾讯路宝|TXGuiFoundation|
 腾讯游戏|TXGuiFoundation|
 腾讯应用宝|TXGuiFoundation|
+QQ音乐|TXGuiFoundation|
+腾讯公益慈善基金会|TXGuiFoundation|
